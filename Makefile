@@ -10,7 +10,7 @@ CXXFLAGS = -std=c++11 -Wall -Wextra -pedantic
 TARGET = PeirceSim
 
 # Source files
-SRCS = PeirceLines.cpp
+SRCS = PeirceSimulation.cpp
 
 # Default rule to build the target
 all: $(TARGET)
